@@ -1,0 +1,9 @@
+{
+  "py/object": "Just_test.python_code.class_to_accept_json.class_to_accept_json",
+  "end": "some end",
+  "list": {
+    "py/tuple": [1, 2, 3, 4, 5, 6]
+  },
+  "username": "some_username",
+  "value": "some_value"
+}

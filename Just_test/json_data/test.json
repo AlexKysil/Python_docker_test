@@ -1,0 +1,7 @@
+{
+  "py/object": "Just_test.python_code.class_to_accept_json.class_to_accept_json",
+  "list": ["some", "list", "here"],
+  "value": 12,
+  "username": "test user name",
+  "end": "this is the end"
+}

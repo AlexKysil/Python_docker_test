@@ -1,0 +1,18 @@
+{
+  "email": "rest_test@yopmail.com",
+  "name": "Rename Test user As Rest",
+  "tasks": [0,15],
+  "companies": [36,37,91],
+  "hobby": "kill the humans",
+  "adres": "homeless",
+  "name1": "Rest test",
+  "surname1": "Restovich",
+  "fathername1": "python",
+  "cat": "busia",
+  "cavy": "who are you?",
+  "phone": "333 33 33",
+  "inn": "123456789012",
+  "gender": "m",
+  "birthday": "01.01.1900",
+  "date_start": "11.11.2000"
+}
